@@ -1,0 +1,164 @@
+
+body {
+  background: #fff;
+  color: #333;
+
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: #000 !important;
+}
+
+a {
+  color:#158443;
+  text-decoration: underline;
+/*  border-bottom: 1px solid #007bff;*/
+/*  padding-bottom:2px;*/
+  
+}
+
+a:has(> code) {
+    text-decoration: none!important;
+}
+
+img{
+  background-color:#dfe7f0;
+  padding:8px;
+  border-radius:8px;
+  margin-top:15px;
+}
+
+video{
+  background-color:#dfe7f0;
+  padding:8px;
+  border-radius:8px;
+}
+
+/* Blockquote header */
+blockquote {
+    font-family: '-apple-system',"San Francisco","Source Han Serif CN", serif;
+    position: relative; /* for pseudos */
+    background-color:#f2f6fa;
+    color: #000;
+    font-size: 1.0rem;
+    font-weight: normal;
+    line-height: 1.4;
+    border-radius:10px;
+    padding: 5px 15px;
+    margin:30px 0;
+}
+blockquote a {
+   color:#000;
+   text-decoration:none!important;
+}
+
+
+hr {
+    width: 30%;
+    height: 1px;
+    margin-block-start: 48px;
+    margin-block-end: 47px;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    border: 0;
+    background-color: #ccc
+}
+
+
+pre {
+    font-size: .75rem;
+    overflow: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    padding:15px;
+    color:#000;
+    margin-top: 18px;
+    background: #f2f6fa;
+    border: 1px solid #d6e0ef;
+    border-radius: 5px;
+}
+
+
+code{
+background: #f2f6fa;
+border: 1px solid #d6e0ef;
+border-radius: 5px;
+font-family: Menlo,monospace;
+font-size: .875rem;
+padding: 0 5px;
+margin: -3px 3px 0 3px;
+}
+
+
+pre code{
+background: transparent;
+border: none;
+font-family: Menlo,monospace;
+font-size: .75rem;
+}
+
+
+ table {
+    box-sizing: border-box;
+    table-layout: auto;
+    margin-block-start: 12px;
+    margin-block-end: 12px;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ccc;
+    word-break: break-word
+}
+
+
+
+th, td {
+    padding-block-start: 6px;
+    padding-block-end: 6px;
+    padding-inline-start: 8px;
+    padding-inline-end: 8px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ccc
+}
+
+
+
+
+
+mark {
+background-color: #007aff;
+color: #000;
+padding: 1px 6px;
+border-radius: 500px;
+text-shadow: none;
+color: inherit
+}
+
+
+ .highlighted {
+  background: #7DFFB3;
+}
+
+
+sup:target,sup a:target {
+    background-color: #dbedff
+}
+
+
+u[title] {
+    cursor: help;
+    border-block-end-width: 3px;
+    border-block-end-style: double;
+    border-block-end-color: rgba(0,0,0,0.54)
+}
+
+
+.subtitle {
+  font-family: "IBM Plex Serif", sans-serif;
+  color: rgba(0, 0, 0, 0.54);
+  margin: 0 0 24px 0;
+}
+

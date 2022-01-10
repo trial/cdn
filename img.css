@@ -1,0 +1,183 @@
+@media only screen and (device-width: 320px) {
+  body {
+    width: 320px;
+    font-size: 17px;
+  }
+
+  img {
+    max-width: 320px !important;
+  }
+}
+
+@media only screen and (device-width: 360px) {
+  body {
+    width: 360px;
+    font-size: 17px;
+  }
+
+
+
+  img {
+    max-width: 360px !important;
+  }
+}
+
+@media only screen and (device-width: 375px) {
+  body {
+    width: 375px;
+    font-size: 18px;
+  }
+
+ 
+  img {
+    max-width: 375px !important;
+  }
+}
+
+@media only screen and (device-width: 390px) {
+  body {
+    width: 390px;
+    font-size: 18px;
+  }
+
+
+
+  img {
+    max-width: 390px !important;
+  }
+}
+
+@media only screen and (device-width: 414px) {
+  body {
+    width: 414px;
+    font-size: 18px;
+  }
+
+ 
+
+  img {
+    max-width: 414px !important;
+  }
+}
+
+@media only screen and (device-width: 428px) {
+  body {
+    width: 428px;
+    font-size: 18px;
+  }
+
+ 
+
+  img {
+    max-width: 428px !important;
+  }
+}
+
+@media only screen and (device-width: 768px) {
+  body {
+    width: 768px;
+    font-size: 22px;
+  }
+
+
+
+  img {
+    max-width: 768px !important;
+  }
+}
+
+@media only screen and (device-width: 834px) {
+  body {
+    width: 834px;
+    font-size: 24px;
+  }
+
+
+  img {
+    max-width: 834px !important;
+  }
+}
+
+@media only screen and (device-width: 1024px) {
+  body {
+    width: 1024px;
+    font-size: 24px;
+  }
+
+
+
+  img {
+    max-width: 1024px !important;
+  }
+}
+
+@media only screen and (device-width: 1194px) {
+  body {
+    width: 1194px;
+    font-size: 24px;
+  }
+
+
+
+  img {
+    max-width: 1194px !important;
+  }
+}
+
+@media only screen and (device-width: 1366px) {
+  body {
+    width: 1366px;
+    font-size: 26px;
+  }
+
+
+
+  img {
+    max-width: 1366px !important;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+   -webkit-font-smoothing: subpixel-antialiased;
+  font-family:  serif;
+  line-height: 150%;
+  background: #fff;
+  color: #000;
+  word-wrap: break-word;
+  hyphens: auto
+}
+
+@media (prefers-color-scheme: dark) {
+  
+  body {
+    -webkit-font-smoothing: subpixel-antialiased;
+    font-family: serif;
+    line-height: 150%;
+    background: #000000;
+    color: #ccc;
+    word-wrap: break-word;
+    hyphens: auto
+  }
+}
+
+
+
+img{
+  margin:0;
+  padding:0;
+  display: block;
+}
+
+.netflav{
+    margin:10px 20px 20px;
+    display:block;
+    
+}
+.netflav p {
+    font-size: 15px;
+}
