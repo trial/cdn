@@ -36,7 +36,7 @@ video{
 
 /* Blockquote header */
 blockquote {
-    font-family: '-apple-system',"San Francisco","Source Han Serif CN", serif;
+    font-family: '-apple-system',"San Francisco", serif;
     position: relative; /* for pseudos */
     background-color:#f2f6fa;
     color: #000;
