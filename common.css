@@ -552,6 +552,6 @@ small {
 }
 
 
-.hidden,#responser{
+.hidden,#responser,.supporter-header,.supporter-footer,.sponsor, .sponsor-link{
   display:none;
 }
