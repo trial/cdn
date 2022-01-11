@@ -252,7 +252,7 @@
 
 body {
    -webkit-font-smoothing: subpixel-antialiased;
-  font-family: "IBM Plex Serif",'-apple-system',"Source Han Serif CN", serif;
+  font-family: "IBM Plex Serif",'-apple-system', serif;
   line-height: 1.65;
   word-wrap: break-word;
   hyphens: auto
@@ -293,7 +293,7 @@ h6 {
 }
 
 h1,h2,h3,h4,h5,h6{
-    font-family:'-apple-system',"San Francisco","Source Han Serif CN", serif;
+    font-family:'-apple-system',"San Francisco", serif;
     font-weight:700;
     letter-spacing: -.5px;
     line-height: 1.25;
