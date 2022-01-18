@@ -117,7 +117,7 @@ code{
     background: #3b4048;
     border: 1px solid #73859f;
     border-radius: 5px;
-    font-family: Menlo,monospace;
+    font-family: 'SF Mono', SFMono-Regular, ui-monospace, Menlo, Consolas, monospace;
     font-size: .875rem;
     padding: 0 5px;
     margin: -3px 3px 0 3px;
@@ -129,7 +129,7 @@ code{
 pre code{
 background: transparent;
 border: none;
-font-family: Menlo,monospace;
+font-family: 'SF Mono', SFMono-Regular, ui-monospace, Menlo, Consolas, monospace;
 font-size: .75rem;
 }
 
