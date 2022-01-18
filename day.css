@@ -76,6 +76,7 @@ pre {
     background: #f2f6fa;
     border: 1px solid #d6e0ef;
     border-radius: 5px;
+    overflow-x: scroll;
 }
 
 
