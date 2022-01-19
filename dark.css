@@ -211,7 +211,7 @@ u[title] {
 }
 
 em,b,strong{
-  font-weight:700;
-  color:#fff;
+  font-weight:700!important;
+  color:#fff!important;
 }
 
