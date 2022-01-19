@@ -162,7 +162,7 @@ u[title] {
   color: rgba(0, 0, 0, 0.54);
   margin: 0 0 24px 0;
 }
-em,b{
+em,b,strong{
   font-weight:700;
   color:#000;
 }
