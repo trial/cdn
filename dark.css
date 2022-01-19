@@ -210,3 +210,8 @@ u[title] {
   margin: 0 0 24px 0;
 }
 
+em,b{
+  font-weight:700;
+  font-color:#fff;
+}
+
