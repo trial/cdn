@@ -579,3 +579,8 @@ button.comments-icon{
 .related-posts, .swiftlee-ad,.aal_anchor{
 display:none;
 }
+
+.related-posts,.block-mailchimp,a.button,.siblings{
+display:none;
+}
+	
