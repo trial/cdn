@@ -294,22 +294,22 @@ h4 {
 
 h5 {
   font-weight:500;
-   font-size: 14px;
+   font-size: 15px;
         line-height:180%;
-        margin-top:22px;
-        margin-bottom:12px
+        margin-top:30px;
+        margin-bottom:16px
 }
 
 h6 {
   font-weight:500;
     font-size: 14px;
         line-height:140%;
-        margin-top:22px;
-        margin-bottom:12px
+        margin-top:26px;
+        margin-bottom:14px
 }
 
 h1,h2,h3,h4,h5,h6{
-    font-family:'IBM Plex Serif','-apple-system',"San Francisco", serif;
+    font-family:'-apple-system',"San Francisco", serif;
 }
 
 h1:not(:lang(zh)):not(:lang(ja)):not(:lang(kr)),h1:not(:lang(zh)), h2:not(:lang(zh)):not(:lang(ja)):not(:lang(kr)),h2:not(:lang(zh)),h3:not(:lang(zh)):not(:lang(ja)):not(:lang(kr)), h3:not(:lang(zh)) {
