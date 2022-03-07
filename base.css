@@ -273,8 +273,9 @@ a:has(> code) {
 h1 {
    font-weight:700;
     font-size: 24px;
-    line-height: 140%
-
+    line-height: 140%;
+     margin-top:65px;
+     margin-bottom:24px;
 }
 
 h2 {
@@ -282,15 +283,15 @@ h2 {
      font-size: 20px;
     line-height: 140%;
      margin-top:56px;
-     margin-bottom:24px
+     margin-bottom:24px;
 }
 
 h3 {
   font-weight:700;
    font-size: 18px;
-    line-height:140%;
-        margin-top:48px;
-        margin-bottom:22px
+   line-height:140%;
+  margin-top:48px;
+ margin-bottom:22px;
 }
 
 h4 {
@@ -298,27 +299,27 @@ h4 {
  font-size: 17px;
     margin-top:40px;
     margin-bottom:16px;
-    line-height:140%
+    line-height:130%;
 }
 
 h5 {
-  font-weight:500;
+  font-weight:600;
    font-size: 16px;
-        line-height:180%;
-        margin-top:30px;
-        margin-bottom:16px
+   line-height:120%;
+   margin-top:35px;
+   margin-bottom:16px;
 }
 
 h6 {
-  font-weight:500;
+  font-weight:600;
     font-size: 15px;
-        line-height:140%;
-        margin-top:26px;
+        line-height:120%;
+        margin-top:30px;
         margin-bottom:14px
 }
 
 h1,h2,h3,h4,h5,h6{
-    font-family: "PingFang SC","Helvetica Neue",Helvetica,"-apple-system","San Francisco", Arial,sans-serif;
+    font-family: "PingFang SC","Helvetica Neue",Helvetica,"San Francisco", Arial,sans-serif;
 }
 
 h1:not(:lang(zh)):not(:lang(ja)):not(:lang(kr)),h1:not(:lang(zh)), h2:not(:lang(zh)):not(:lang(ja)):not(:lang(kr)),h2:not(:lang(zh)),h3:not(:lang(zh)):not(:lang(ja)):not(:lang(kr)), h3:not(:lang(zh)) {
