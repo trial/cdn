@@ -12,14 +12,6 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 
-  a {
-    color:#ccc;
-    text-decoration: underline;
-  }
-
-a:has(> code) {
-    text-decoration: none!important;
-}
 
 
 
