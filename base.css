@@ -278,7 +278,7 @@ h2 {
 
 h3 {
   font-weight:600;
-   font-size: 16px;
+   font-size: 18px;
     line-height:140%;
         margin-top:48px;
         margin-bottom:22px
@@ -286,7 +286,7 @@ h3 {
 
 h4 {
   font-weight:600;
- font-size: 16px;
+ font-size: 17px;
     margin-top:40px;
     margin-bottom:16px;
     line-height:140%
@@ -294,7 +294,7 @@ h4 {
 
 h5 {
   font-weight:500;
-   font-size: 15px;
+   font-size: 16px;
         line-height:180%;
         margin-top:30px;
         margin-bottom:16px
@@ -302,14 +302,14 @@ h5 {
 
 h6 {
   font-weight:500;
-    font-size: 14px;
+    font-size: 15px;
         line-height:140%;
         margin-top:26px;
         margin-bottom:14px
 }
 
 h1,h2,h3,h4,h5,h6{
-    font-family:'-apple-system',"San Francisco", serif;
+    font-family: "PingFang SC","Helvetica Neue",Helvetica,"-apple-system","San Francisco", Arial,sans-serif;
 }
 
 h1:not(:lang(zh)):not(:lang(ja)):not(:lang(kr)),h1:not(:lang(zh)), h2:not(:lang(zh)):not(:lang(ja)):not(:lang(kr)),h2:not(:lang(zh)),h3:not(:lang(zh)):not(:lang(ja)):not(:lang(kr)), h3:not(:lang(zh)) {
