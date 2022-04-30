@@ -569,7 +569,7 @@ small {
 
 
 
-.hidden,#responser,.supporter-header,.supporter-footer,.sponsor, .sponsor-link,.supporter{
+.hidden,#responser,.supporter-header,.supporter-footer,.sponsor, .sponsor-link,.supporter,#sponsor-wrapper,.sponsor-active{
   display:none;
 }
 p.supporter-header,a.supporter{
