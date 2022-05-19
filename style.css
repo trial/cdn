@@ -253,7 +253,7 @@
 body {
    -webkit-font-smoothing: subpixel-antialiased;
   font-family: "IBM Plex Serif","Source Han Serif CN",'-apple-system', serif;
-  line-height: 1.65;
+  line-height: 1.7;
   word-wrap: break-word;
   hyphens: auto
 }
