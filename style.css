@@ -267,7 +267,9 @@ a:has(> code) {
     text-decoration: none!important;
     border-bottom:none;
 }
-
+a:has(> img) {
+    border-bottom:none;
+}
 
 
 h1 {
