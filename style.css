@@ -258,15 +258,14 @@ body {
   hyphens: auto
 }
 
-  a {
+
+
+a,p a {
    text-decoration: none;
-   color:#d71a1b;
+   color: #ff502c;
+   background :#fff5f5;
   }
 
-a:has(> code) {
-    text-decoration: none!important;
-    border-bottom:none;
-}
 
 
 
