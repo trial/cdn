@@ -848,9 +848,11 @@ h1,h2,h3,h4,h5,h6 {
     color: #fff !important;
 }
 
-a{
-    color: #ccc!important;
-  }  
+a,p a {
+   text-decoration: none;
+   color: #330000;
+   background :#ff9999;
+  }
 
 
 
