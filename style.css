@@ -133,6 +133,50 @@
   }
 }
 
+@media only screen and (device-width: 393px) {
+  body {
+    width: 393px;
+    font-size: 18px;
+  }
+
+  #wrap {
+    margin: 15px;
+    overflow: hide;
+  }
+
+  img {
+    max-width: 363px !important;
+  }
+  video{
+    max-width: 363px !important;
+  }
+  blockquote {
+      max-width: 350px;
+  }
+}
+
+@media only screen and (device-width: 430px) {
+  body {
+    width: 430px;
+    font-size: 18px;
+  }
+
+  #wrap {
+    margin: 15px;
+    overflow: hide;
+  }
+
+  img {
+    max-width: 400px !important;
+  }
+  video{
+    max-width: 400px !important;
+  }
+  blockquote {
+      max-width: 350px;
+  }
+}
+
 @media only screen and (device-width: 768px) {
   body {
     width: 768px;
