@@ -1,0 +1,10 @@
+#related_posts{
+  display:hidden;
+}
+.entry-tags,.entry-share{
+   display:hidden;
+}
+
+.alert-warning{
+    display:hidden;
+}
