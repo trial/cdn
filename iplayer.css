@@ -306,7 +306,7 @@ body {
 
 a,p a {
    text-decoration: none;
-   color: #fff5f5;
+   color: #cf3300;
   }
 
 
@@ -891,13 +891,6 @@ em,b,strong{
 h1,h2,h3,h4,h5,h6 {
     color: #fff !important;
 }
-
-a,p a {
-   text-decoration: none;
-   color: #330000;
-  }
-
-
 
 
 img{
