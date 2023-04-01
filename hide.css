@@ -1,10 +1,10 @@
 #related_posts{
-  display:hidden;
+  display:none;
 }
 .entry-tags,.entry-share{
-   display:hidden;
+   display:none;
 }
 
 .alert-warning{
-    display:hidden;
+    display:none;
 }
