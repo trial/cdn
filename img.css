@@ -47,14 +47,22 @@
   }
 }
 
+@media only screen and (device-width: 393px) {
+    body {
+    width: 393px;
+    font-size: 18px;
+  }
+  img {
+    max-width: 393px !important;
+  }
+}
+
+
 @media only screen and (device-width: 414px) {
   body {
     width: 414px;
     font-size: 18px;
   }
-
- 
-
   img {
     max-width: 414px !important;
   }
@@ -65,11 +73,18 @@
     width: 428px;
     font-size: 18px;
   }
-
- 
-
   img {
     max-width: 428px !important;
+  }
+}
+
+@media only screen and (device-width: 430px) {
+    body {
+    width: 430px;
+    font-size: 18px;
+  }
+  img {
+    max-width: 430px !important;
   }
 }
 
