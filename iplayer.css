@@ -363,7 +363,7 @@
 body {
    -webkit-font-smoothing: subpixel-antialiased;
   font-family: "IBM Plex Serif","Source Han Serif CN",'-apple-system', serif;
-  line-height: 1.7;
+  line-height: 170%;
   word-wrap: break-word;
   hyphens: auto
 }
@@ -707,17 +707,17 @@ display:none;
 
 
 body {
-  background: #f4e9df;
-  color: #261609;
+  background: #fff;
+  color: #333;
 }
 
 a{
-  color: #261609;
+  color: #000;
 text-decoration:underline;	
 }  
 
 h1,h2,h3,h4,h5,h6 {
-    color: #261609 !important;
+    color: #000 !important;
 }
 
 
