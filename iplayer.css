@@ -111,6 +111,28 @@
   
 }
 
+@media only screen and (device-width: 402px) {
+  body {
+    width:402px;
+    font-size: 18px;
+  }
+
+  #wrap {
+    margin: 15px;
+    overflow: hide;
+  }
+
+  img {
+    max-width: 356px !important;
+  }
+  video{
+    max-width: 356px !important;
+  }
+  blockquote {
+      max-width: 345px;
+  }
+}
+
 @media only screen and (device-width: 428px) {
   body {
     width: 428px;
@@ -129,7 +151,7 @@
     max-width: 384px !important;
   }
   blockquote {
-      max-width: 350px;
+      max-width: 370px;
   }
 }
 
@@ -167,13 +189,34 @@
   }
 
   img {
-    max-width: 400px !important;
+    max-width: 384px !important;
   }
   video{
-    max-width: 400px !important;
+    max-width: 384px !important;
   }
   blockquote {
-      max-width: 350px;
+      max-width: 370px;
+  }
+}
+@media only screen and (device-width: 440px) {
+  body {
+    width: 440px;
+    font-size: 18px;
+  }
+
+  #wrap {
+    margin: 15px;
+    overflow: hide;
+  }
+
+  img {
+    max-width: 394px !important;
+  }
+  video{
+    max-width: 394px !important;
+  }
+  blockquote {
+      max-width: 380px;
   }
 }
 
